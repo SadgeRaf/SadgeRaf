@@ -8,7 +8,9 @@
 </h3>
 
 - 🌱 Currently learning **Node.js, Three.js, Express.js**
+- 📍 Location: **Bangladesh**
 - 📫 Email: **khalilurrafsun@gmail.com**
+- 🔗 GitHub: [https://github.com/SadgeRaf](https://github.com/SadgeRaf)
 - ⚡ Also an **Artist**, **Video Editor**, and a **Gym Rat**
 
 ---
