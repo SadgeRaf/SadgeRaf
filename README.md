@@ -2,21 +2,21 @@
   <img src="https://i.postimg.cc/25Pm29tz/MD-Khalilur-Rahman.jpg" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Raf</h1>
+<h1 align="center">Hi, I'm Raf 👋</h1>
 <h3 align="center">
-  A CSE student and a front-end enthusiast. Currently diving into Three.js, GSAP, and Blender.
+  A CSE student & front-end enthusiast exploring Three.js, GSAP, and Blender.
 </h3>
 
-- 🌱 I’m currently learning **NodeJS, ThreeJS, ExpressJS**
+- 🌱 Currently learning **Node.js, Three.js, Express.js**
 - 📫 Email: **khalilurrafsun@gmail.com**
-- ⚡ I am an **Artist**, a **Video Editor**, and a **Gym Rat**
+- ⚡ Also an **Artist**, **Video Editor**, and a **Gym Rat**
 
 ---
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="https://fb.com/md raf" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="https://facebook.com/mdraf" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
 </a>
 </p>
 
@@ -48,13 +48,13 @@
 ## 📌 Pinned Repositories
 
 ### ⭐ Freelancer Marketplace (Client)
-<a href="https://github.com/SadgeRaf/Freelancer-Marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadgeRaf&repo=Freelancer-Marketplace&theme=react" />
+<a href="https://github.com/SadgeRaf/Freelance-Marketplace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadgeRaf&repo=Freelance-Marketplace&theme=react" />
 </a>
 
 ### ⭐ Freelancer Marketplace (Server)
-<a href="https://github.com/SadgeRaf/Freelancer-Marketplace-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadgeRaf&repo=Freelancer-Marketplace-server&theme=react" />
+<a href="https://github.com/SadgeRaf/Freelance-Marketplace-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadgeRaf&repo=Freelance-Marketplace-server&theme=react" />
 </a>
 
 ### ⭐ WarmPAWS
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadgeraf&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadgeRaf&show_icons=true&layout=compact" />
 </p>
