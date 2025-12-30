@@ -49,16 +49,17 @@
 
 ## 📌 Pinned Repositories
 
-### ⭐ Freelancer Marketplace (Client)
+### ⭐ Freelancer Marketplace 
 A modern and responsive front-end application for the Freelance Marketplace platform. Users can explore jobs, view job details, authenticate, and manage their own tasks. Built using React, Tailwind CSS, React Router, Axios, and GSAP for smooth animations.
 
 🔗 [Repo Link](https://github.com/SadgeRaf/Freelancer-Marketplace)  
 🌐 [Live Site](https://freelance-marketplace-8dbfc.web.app)
 
-### ⭐ Freelancer Marketplace (Server)
-A Node.js and Express.js backend API for the Freelance Marketplace platform. Handles user authentication, job creation, updating, deletion, and data retrieval. Uses MongoDB and Mongoose for database operations and provides secure, structured RESTful endpoints for the client.
+### ⭐ ContestHUB
+A platform for creators and participants to manage, join, and compete in online contests.
 
-🔗 [Repo Link](https://github.com/SadgeRaf/Freelancer-Marketplace-server)
+🔗 [Repo Link](https://github.com/SadgeRaf/ContestHub)
+🌐 [Live Site](https://contest-hub-988e2.web.app)
 
 ### ⭐ WarmPAWS
 A single-page application providing winter ideas and kits for your furry friends. Features a login/signup system with email or Google, minimalistic design, subtle animations, and profile update functionality.
