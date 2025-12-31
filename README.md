@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm MD KHalilur Rahman 👋</h1>
 <h3 align="center">
-  A CSE student & front-end enthusiast exploring Three.js, GSAP, and NextJSr.
+  A CSE student & front-end enthusiast exploring Three.js, GSAP, and NextJS.
 </h3>
 
 - 🌱 Currently learning **Next.js, Three.js**
@@ -17,6 +17,9 @@
 
 ## 🔗 Connect With Me
 <p align="left">
+<a href="https://www.linkedin.com/in/mdkhalilurraf/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
 <a href="https://facebook.com/mdraf" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
 </a>
@@ -28,7 +31,6 @@
 <p align="left">
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
@@ -44,6 +46,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <!-- Alternative 1: Different endpoint -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadgeRaf&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadgeRaf&theme=default" alt="Top Languages" />
 
 ---
 
@@ -68,7 +78,3 @@ A single-page application providing winter ideas and kits for your furry friends
 🌐 [Live Site](https://warmpaws-55717.web.app)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadgeRaf&show_icons=true&layout=compact" />
-</p>
