@@ -2,12 +2,12 @@
   <img src="https://i.postimg.cc/fbCnj05X/MD-Khalilur-Rahman.jpg" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Raf 👋</h1>
+<h1 align="center">Hi, I'm MD KHalilur Rahman 👋</h1>
 <h3 align="center">
-  A CSE student & front-end enthusiast exploring Three.js, GSAP, and Blender.
+  A CSE student & front-end enthusiast exploring Three.js, GSAP, and NextJSr.
 </h3>
 
-- 🌱 Currently learning **Node.js, Three.js, Express.js**
+- 🌱 Currently learning **Next.js, Three.js**
 - 📍 Location: **Bangladesh**
 - 📫 Email: **khalilurrafsun@gmail.com**
 - 🔗 GitHub: [https://github.com/SadgeRaf](https://github.com/SadgeRaf)
