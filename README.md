@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/fbCnj05X/MD-Khalilur-Rahman.jpg" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm MD KHalilur Rahman 👋</h1>
+<h1 align="center">Hi, I'm MD Khalilur Rahman 👋</h1>
 <h3 align="center">
   A CSE student & front-end enthusiast exploring Three.js, GSAP, and NextJS.
 </h3>
@@ -51,13 +51,19 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <!-- Alternative 1: Different endpoint -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadgeRaf&theme=default" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadgeRaf&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📌 Pinned Repositories
+
+### ⭐ Artwork
+A full-stack digital art portfolio and commission platform built with Next.js. Features role-based access (User/Admin), MongoDB integration, Botpress chatbot, and smooth GSAP animations. Includes a comprehensive commission management system with real-time status tracking.
+
+🔗 [Repo Link](https://github.com/SadgeRaf/Artwork)  
+🌐 [Live Site](https://artwork-two-virid.vercel.app)
 
 ### ⭐ Freelancer Marketplace 
 A modern and responsive front-end application for the Freelance Marketplace platform. Users can explore jobs, view job details, authenticate, and manage their own tasks. Built using React, Tailwind CSS, React Router, Axios, and GSAP for smooth animations.
@@ -76,5 +82,3 @@ A single-page application providing winter ideas and kits for your furry friends
 
 🔗 [Repo Link](https://github.com/SadgeRaf/WarmPAWS)  
 🌐 [Live Site](https://warmpaws-55717.web.app)
-
----
